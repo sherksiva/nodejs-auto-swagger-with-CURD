@@ -1,0 +1,3 @@
+PORT=5000
+MONGODB_URI="mongodb+srv://<MongoAtlasUser>:<clusterPWD>@sivacluster.shpbkso.mongodb.net/?appName=<clusterName>"
+JWT_SECRET="<What ever you want>"
